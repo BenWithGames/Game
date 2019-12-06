@@ -223,14 +223,6 @@
             }
         },
         {
-            "Key": "31a20701-ce8c-4eb8-805f-3f83ca5283ed",
-            "Value": {
-                "id": "6e63a6b8-6a7f-47f5-a4cf-4bc4a174d3b2",
-                "resourcePath": "objects\/obj_wave_animate\/obj_wave_animate.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "32e63e0f-1b2d-4237-adc8-e1a3634bb9fb",
             "Value": {
                 "id": "fd445595-392f-4be6-920c-641a46f2487c",
