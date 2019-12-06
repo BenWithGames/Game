@@ -162,7 +162,7 @@ if (currentState = cutSceneStates.Active) {
 			}
 			
 			if (myTextbox2 = noone) {
-				myTextbox2 = instance_create_depth(x, y, "Textbox", obj_textbox);
+				myTextbox2 = instance_create_layer(x, y, "Textbox", obj_textbox);
 				myTextbox2.text = myText2;
 				myTextbox2.creator = self;
 			} else if (!instance_exists(myTextbox2)) {
