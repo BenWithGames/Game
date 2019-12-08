@@ -15,7 +15,7 @@ myText1[3] = "Player: The Elite Corps?";
 myText1[4] = "Leina: I've been waiting to run my foot up your ass all day long!"; 
 
 myText2[0] = "Captain: Leina!";
-myText2[1] = "Captain: Oh whatever... Everyone, charge!";
+myText3[0] = "Captain: Oh whatever... Everyone, charge!";
 
 myTextLeina1[0] = "Leina: Ahem";
 myTextLeina2[0] = "Leina: *AHEM*";
@@ -24,6 +24,7 @@ myTextLeina3[0] = "Leina: That's it!";
 myTextbox = noone;
 myTextbox1 = noone;
 myTextbox2 = noone;
+myTextBox3 = noone;
 myTextboxLeina1 = noone;
 myTextboxLeina2 = noone;
 myTextboxLeina3 = noone;
@@ -33,6 +34,8 @@ camera = view_camera[0];
 xPos = camera_get_view_x(camera);
 
 yPos = camera_get_view_y(camera);
+
+leinaSet = noone;
 
 waitOneSec = false;
 

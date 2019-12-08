@@ -1,6 +1,6 @@
 /// @description Intro to the demo
 // You can write your code in this editor
-isCutsceneOn = false;
+isCutsceneOn = true;
 
 camera = view_camera[0]
 
